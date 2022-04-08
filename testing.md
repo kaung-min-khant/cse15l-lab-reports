@@ -5,3 +5,22 @@
 
 **Date** = *April 8, 2022*
 
+![Image](https://user-images.githubusercontent.com/66764591/162473918-dcc298a6-806e-4c6c-92af-0738ff291ade.png)
+
+> Blockquote
+
+* List
+* List
+* List
+
+
+- List
+- List 
+- List
+
+Horizontal rule: 
+---
+`Inline code`
+```code block```
+
+
