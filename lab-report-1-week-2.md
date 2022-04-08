@@ -3,4 +3,4 @@
 
 ### Step 1: Installing VS Code
 
-![Image](https://github.com/kaung-min-khant/cse15l-lab-reports/blob/main/docs/assets/VS%20Code%20start.png =200x400)
+![Image](https://github.com/kaung-min-khant/cse15l-lab-reports/blob/main/docs/assets/VS%20Code%20start.png)
