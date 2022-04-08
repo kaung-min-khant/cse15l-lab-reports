@@ -1,6 +1,6 @@
 <style>
 H1{color:Black !important;}
-H2{color:Dark Blue !important;}
+H2{color:DarkBlue !important;}
 H3{color:DarkOrange !important;}
 H4{color:Green !important;}
 p{color:Black !important;}
