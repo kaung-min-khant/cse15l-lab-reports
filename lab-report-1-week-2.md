@@ -1,3 +1,12 @@
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+H3{color:Purple !important;}
+H4{color:Green !important;}
+p{color:Black !important;}
+</style>
+
+
 # Lab Report 1
 ## CSE 15L - Spring 2022
 
