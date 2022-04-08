@@ -1,13 +1,5 @@
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
-
 # Lab Report 1
 ## CSE 15L - Spring 2022
-
-
 
 ### Installing VS Code
 
