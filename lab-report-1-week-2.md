@@ -65,14 +65,35 @@ class WhereAmI {
 
 * Run it using `javac` and `java`.
 
+* When you run `ls`, you'll see the file on your remote server.
+
 
 <img alt="Screen Shot 2022-04-10 at 8 00 35 PM" src="https://user-images.githubusercontent.com/66764591/162658020-490963b2-eaef-497b-8b24-4371b341de88.png" width="603" height="185">
 
-
-* When you run `ls`, you'll see the file on your remote server.
 
 
 
 ### Setting an SSH key
 
+* Run the command `ssh-keygen`
+* When prompted like
+```
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/<user-name>/.ssh/id_rsa): /Users/<user-name>/.ssh/id_rsa
+Enter passphrase (empty for no passphrase): 
+```
+* do not add a passphrase.
+* Once this is done, you can switch between the servers without entering password.
+
+<img alt="Screen Shot 2022-04-01 at 9 14 07 AM" src="https://user-images.githubusercontent.com/66764591/162658431-33c19535-684c-4b14-b1f1-7979c280b388.png" width ="800" height="279">
+
+
 ### Optimizing Remote Running
+
+* You can write commands in quotes at the end of `ssh` command so that you can directly run it on the remote server.
+* `ssh cs15lsp22aau@ieng6.ucsd.edu "ls"`
+* You can also use semicolons to run multiple commands. For example,
+* `cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`
+
+
+<img alt="Screen Shot 2022-04-01 at 9 34 40 AM" src="https://user-images.githubusercontent.com/66764591/162660254-ccd64bcf-cddb-4fb2-a580-1330d663fe2d.png" width="800" height="150">
