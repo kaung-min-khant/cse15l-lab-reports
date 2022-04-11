@@ -47,7 +47,8 @@ p{color:Black !important;}
 * You can copy and paste files between remote server and your computer.
 * First create a file called `WhereAmI.java` on your computer 
 
-``` class WhereAmI {
+``` 
+class WhereAmI {
   public static void main(String[] args) {
     System.out.println(System.getProperty("os.name"));
     System.out.println(System.getProperty("user.name"));
