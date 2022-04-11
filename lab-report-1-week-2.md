@@ -12,13 +12,18 @@ p{color:Black !important;}
 
 ### Installing VS Code
 
-<img alt="VS Code start" src="https://user-images.githubusercontent.com/66764591/162654164-6850a7cb-000a-4e79-a378-8dfb92fd0f64.png" width="800" height ="450">
-
 
 * First, I installed [Visual Studio Code or VS Code](https://code.visualstudio.com/)
 * VS Code looks like below when you open it.
 
+<img alt="VS Code start" src="https://user-images.githubusercontent.com/66764591/162654164-6850a7cb-000a-4e79-a378-8dfb92fd0f64.png" width="800" height ="450">
+
 ### Remotely Connecting
+
+* Look up course specific account, in this case, CSE15L account, [here](https://sdacs.ucsd.edu/~icc/index.php)
+
+<img alt="Screen Shot 2022-04-10 at 7 30 18 PM" src="https://user-images.githubusercontent.com/66764591/162655264-faabef1e-a560-471a-833b-902b7bc3c2de.png" width="800" height ="450">
+
 
 #### Step 1
 
