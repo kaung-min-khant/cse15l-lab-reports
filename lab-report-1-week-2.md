@@ -57,6 +57,21 @@ class WhereAmI {
   }
 }
 ```
+* Run the command `scp WhereAmI.java cs15laausp22@ieng6.ucsd.edu:~/`.
+
+
+<img alt="Screen Shot 2022-04-01 at 8 41 45 AM" src="https://user-images.githubusercontent.com/66764591/162657734-1403a65e-190e-4867-9b44-f40d9288169f.png" width="800" height="298">
+
+
+* Run it using `javac` and `java`.
+
+
+<img alt="Screen Shot 2022-04-10 at 8 00 35 PM" src="https://user-images.githubusercontent.com/66764591/162658020-490963b2-eaef-497b-8b24-4371b341de88.png" width="603" height="185">
+
+
+* When you run `ls`, you'll see the file on your remote server.
+
+
 
 ### Setting an SSH key
 
