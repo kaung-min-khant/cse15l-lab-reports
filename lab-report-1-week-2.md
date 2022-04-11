@@ -29,7 +29,7 @@ p{color:Black !important;}
 * Open a new terminal in VS Code - Terminal > New Terminal
 * Type ssh cse15laccount@ieng6.ucsd.edu. Your terminal will look like this.
 
-<img alt="Screen Shot 2022-04-01 at 8 27 43 AM" src="https://user-images.githubusercontent.com/66764591/162656118-56384222-46e3-441e-b85c-41db17306f22.png" width="800" height="569">
+<img alt="Screen Shot 2022-04-01 at 8 27 43 AM" src="https://user-images.githubusercontent.com/66764591/162656118-56384222-46e3-441e-b85c-41db17306f22.png" width="800" height="600">
 
 
 * 
