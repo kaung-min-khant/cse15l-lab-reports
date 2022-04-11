@@ -32,12 +32,15 @@ p{color:Black !important;}
 
 <img alt="Screen Shot 2022-04-01 at 8 27 43 AM" src="https://user-images.githubusercontent.com/66764591/162656118-56384222-46e3-441e-b85c-41db17306f22.png" width="800" height="900">
 
+### Trying Some Commands
+
+* Try running commandings like `cd ~` `cd` `ls -lat` `ls -a`
 
 
 <img alt="Screen Shot 2022-04-10 at 7 45 39 PM" src="https://user-images.githubusercontent.com/66764591/162656594-6015243e-9856-4bc2-b78b-56ec0ff8ac59.png" width="800" height="412">
-#### Step 1
 
-### Trying Some Commands
+* When you want to exit, run the command `exit` or Ctrl-D
+
 
 ### Moving Files with `scp`
 
