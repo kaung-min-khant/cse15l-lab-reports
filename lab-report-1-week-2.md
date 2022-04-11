@@ -14,6 +14,8 @@ p{color:Black !important;}
 
 ![Image](https://github.com/kaung-min-khant/cse15l-lab-reports/blob/main/docs/assets/VS%20Code%20start.png)
 
+* First, I installed [Visual Studio Code or VS Code](https://code.visualstudio.com/)
+* VS Code looks like below when you open it.
 
 ### Remotely Connecting
 
