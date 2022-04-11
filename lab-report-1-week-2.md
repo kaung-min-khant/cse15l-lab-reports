@@ -18,17 +18,21 @@ p{color:Black !important;}
 
 <img alt="VS Code start" src="https://user-images.githubusercontent.com/66764591/162654164-6850a7cb-000a-4e79-a378-8dfb92fd0f64.png" width="800" height ="450">
 
+
 ### Remotely Connecting
 
 * Look up course specific account, in this case, CSE15L account, [here](https://sdacs.ucsd.edu/~icc/index.php)
 
+
 <img alt="Screen Shot 2022-04-10 at 7 30 18 PM" src="https://user-images.githubusercontent.com/66764591/162655264-faabef1e-a560-471a-833b-902b7bc3c2de.png" width="800" height ="450">
 
 * Open a new terminal in VS Code - Terminal > New Terminal
-* Type ssh cse15laccount@ieng6.ucsd.edu
+* Type ssh cse15laccount@ieng6.ucsd.edu. Your terminal will look like this.
 
 <img alt="Screen Shot 2022-04-10 at 7 35 44 PM" src="https://user-images.githubusercontent.com/66764591/162655697-b5f2346a-c481-4508-b372-67999ea53e35.png" width="800" height="569">
 
+
+* 
 #### Step 1
 
 ### Trying Some Commands
