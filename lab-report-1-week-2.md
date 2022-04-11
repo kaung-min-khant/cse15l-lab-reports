@@ -24,6 +24,10 @@ p{color:Black !important;}
 
 <img alt="Screen Shot 2022-04-10 at 7 30 18 PM" src="https://user-images.githubusercontent.com/66764591/162655264-faabef1e-a560-471a-833b-902b7bc3c2de.png" width="800" height ="450">
 
+* Open a new terminal in VS Code - Terminal > New Terminal
+* Type ssh cse15laccount@ieng6.ucsd.edu
+
+<img alt="Screen Shot 2022-04-10 at 7 35 44 PM" src="https://user-images.githubusercontent.com/66764591/162655697-b5f2346a-c481-4508-b372-67999ea53e35.png" width="800" height="569">
 
 #### Step 1
 
