@@ -1,4 +1,4 @@
-CSE 15L Lab 2 
-April 8, 2022 - Fri
+# CSE 15L - Software Tools and Techniques Laboratory
+## Spring 2022
+### University of California - San Diego
 
-**
