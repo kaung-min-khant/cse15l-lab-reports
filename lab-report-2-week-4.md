@@ -13,4 +13,4 @@ p{color:Black !important;}
 ### Code Change 1
 
 
-<img alt="test 1 code change" src="https://user-images.githubusercontent.com/66764591/166862449-a941c65c-a387-48d2-b87d-3901d7f552b0.jpeg" width="800" height ="450">
+<img alt="test 1 code change" src="https://user-images.githubusercontent.com/66764591/166862449-a941c65c-a387-48d2-b87d-3901d7f552b0.jpeg" width="660" height ="454">
