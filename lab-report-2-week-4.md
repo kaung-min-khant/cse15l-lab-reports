@@ -15,7 +15,7 @@ p{color:Black !important;}
 
 <img alt="test 1 code change" src="https://user-images.githubusercontent.com/66764591/166862449-a941c65c-a387-48d2-b87d-3901d7f552b0.jpeg" width="660" height ="454">
 
-[Failure Inducing Input 1](https://github.com/kaung-min-khant/markdown-parser/blob/c69db6f8b6c32b0a3dcd549a714c73f428edb3d6/test1..md
+[Failure Inducing Input 1](https://github.com/kaung-min-khant/markdown-parser/blob/c69db6f8b6c32b0a3dcd549a714c73f428edb3d6/test1..md)
 
 Before the code is changed, below is the output with run command `javac MarkdownParse.java` `java MarkdownParse test1.md`
 
