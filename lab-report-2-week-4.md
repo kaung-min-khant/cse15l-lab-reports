@@ -27,9 +27,7 @@ Symptom of the code = `No such file exception`
 * Add `if` statement to solve a bug input when there is no parenthesis. 
 
 ``
-if (markdown.indexOf('(' !=1)){
-...
-}
+if (markdown.indexOf('(') !=1)
 ``
 
 ### Code Change 2
