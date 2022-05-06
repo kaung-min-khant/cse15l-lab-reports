@@ -10,6 +10,12 @@ p{color:Black !important;}
 # Lab Report 2
 ## CSE 15L - Spring 2022
 
+### **Contents**
+
+1. [Code Change 1](#code-change-1)
+2. [Code Change 2](#code-change-2)
+3. [Code Change 3](#code-change-3)
+
 ### Code Change 1
 
 
