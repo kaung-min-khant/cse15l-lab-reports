@@ -1,6 +1,8 @@
 
 # Lab Report 2
+---
 ## CSE 15L - Spring 2022
+---
 
 ### **Contents**
 
