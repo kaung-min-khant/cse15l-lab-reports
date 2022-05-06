@@ -13,6 +13,13 @@ p{color:Black !important;}
 Contents
 
 1. [Installing VS Code](#installing-vs-code)
+2. [Remotely Connecting](#remotely-connecting)
+3. [Trying Some Commands](#trying-some-commands)
+4. [Moving Files with `scp`](#movineg-files-with-scp)
+5. [Setting an SSH key](#setting-ssh-keys)
+6. [Optimizing Remote Running](#optimizing-remote-running)
+
+
 ### **Installing VS Code**
 
 
