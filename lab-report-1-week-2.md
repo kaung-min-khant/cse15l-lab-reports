@@ -1,6 +1,8 @@
 
 # Lab Report 1
+---
 ## CSE 15L - Spring 2022
+---
 
 ### **Contents**
 
@@ -10,7 +12,6 @@
 4. [Moving Files with `scp`](#movineg-files-with-scp)
 5. [Setting an SSH key](#setting-ssh-keys)
 6. [Optimizing Remote Running](#optimizing-remote-running)
-
 
 ### **Installing VS Code**
 
