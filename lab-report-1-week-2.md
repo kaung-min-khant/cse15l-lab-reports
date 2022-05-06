@@ -10,7 +10,7 @@ p{color:Black !important;}
 # Lab Report 1
 ## CSE 15L - Spring 2022
 
-Contents
+### **Contents**
 
 1. [Installing VS Code](#installing-vs-code)
 2. [Remotely Connecting](#remotely-connecting)
