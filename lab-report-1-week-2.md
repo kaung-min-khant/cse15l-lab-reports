@@ -10,7 +10,7 @@ p{color:Black !important;}
 # Lab Report 1
 ## CSE 15L - Spring 2022
 
-### Installing VS Code
+### **Installing VS Code**
 
 
 * First, I installed [Visual Studio Code or VS Code](https://code.visualstudio.com/)
