@@ -1,16 +1,19 @@
-<style>
-H1{color:Black !important;}
-H2{color:DarkOrange !important;}
-H3{color:DarkBlue !important;}
-H4{color:Green !important;}
-p{color:Black !important;}
-</style>
-
 
 # Lab Report 1
+---
 ## CSE 15L - Spring 2022
+---
 
-### Installing VS Code
+### **Contents**
+
+1. [Installing VS Code](#installing-vs-code)
+2. [Remotely Connecting](#remotely-connecting)
+3. [Trying Some Commands](#trying-some-commands)
+4. [Moving Files with `scp`](#movineg-files-with-scp)
+5. [Setting an SSH key](#setting-ssh-keys)
+6. [Optimizing Remote Running](#optimizing-remote-running)
+
+### **Installing VS Code**
 
 
 * First, I installed [Visual Studio Code or VS Code](https://code.visualstudio.com/)
@@ -19,7 +22,7 @@ p{color:Black !important;}
 <img alt="VS Code start" src="https://user-images.githubusercontent.com/66764591/162654164-6850a7cb-000a-4e79-a378-8dfb92fd0f64.png" width="800" height ="450">
 
 
-### Remotely Connecting
+### **Remotely Connecting**
 
 * Look up course specific account, in this case, CSE15L account, [here](https://sdacs.ucsd.edu/~icc/index.php)
 
@@ -32,7 +35,7 @@ p{color:Black !important;}
 
 <img alt="Screen Shot 2022-04-01 at 8 27 43 AM" src="https://user-images.githubusercontent.com/66764591/162656118-56384222-46e3-441e-b85c-41db17306f22.png" width="800" height="900">
 
-### Trying Some Commands
+### **Trying Some Commands**
 
 * Try running commandings like `cd ~` `cd` `ls -lat` `ls -a`
 
@@ -42,7 +45,7 @@ p{color:Black !important;}
 * When you want to exit, run the command `exit` or Ctrl-D
 
 
-### Moving Files with `scp`
+### **Moving Files with `scp`**
 
 * You can copy and paste files between remote server and your computer.
 * First create a file called `WhereAmI.java` on your computer 
@@ -73,7 +76,7 @@ class WhereAmI {
 
 
 
-### Setting an SSH key
+### **Setting an SSH key**
 
 * Run the command `ssh-keygen`
 * When prompted like
@@ -88,7 +91,7 @@ Enter passphrase (empty for no passphrase):
 <img alt="Screen Shot 2022-04-01 at 9 14 07 AM" src="https://user-images.githubusercontent.com/66764591/162658431-33c19535-684c-4b14-b1f1-7979c280b388.png" width ="800" height="279">
 
 
-### Optimizing Remote Running
+### **Optimizing Remote Running**
 
 * You can write commands in quotes at the end of `ssh` command so that you can directly run it on the remote server.
 * `ssh cs15lsp22aau@ieng6.ucsd.edu "ls"`
