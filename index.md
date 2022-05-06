@@ -10,6 +10,8 @@
 
 ### [Lab Report 2 - Week 4](https://kaung-min-khant.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
 
+### [Lab Report 3 - Week 6](https://kaung-min-khant.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
+
 ---
 
 ## **Skill Demonstrations** (Github Repository)
