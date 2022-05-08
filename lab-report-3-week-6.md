@@ -1,4 +1,3 @@
-
 # Lab Report 3
 ---
 ## CSE 15L - Spring 2022
@@ -12,6 +11,7 @@
 
 
 ### **Streamlining ssh Configuration**
+
 
 ### **Setup Github Access from ieng6**
 
