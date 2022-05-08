@@ -39,6 +39,35 @@ Host ieng6
 
 ### **Setup Github Access from ieng6**
 
+* I created an `ssh` key by using `ssh-keygen -t ed25519 -C "1kaungminkhant1@gmail.com"`
+* Then, co to `.ssh` file by using `ssh-add -K~/.ssh/id_ed25519`
+* Then, copy the key by using `pbcopy < ~/.ssh/id_ed25519.pub`
+* Then, add ssh key to github by pasting the key copied above. 
+
+<img width="660" height="859" alt="CleanShot 2022-05-08 at 16 20 40@2x" src="https://user-images.githubusercontent.com/66764591/167320071-b37da3de-f1e1-4f24-9fd6-208382fab5cc.png">
+
+* Now, you can see `ssh` key added in your github.
+
+<img width="660" height="590" alt="CleanShot 2022-05-08 at 16 26 30@2x" src="https://user-images.githubusercontent.com/66764591/167320134-62769224-a802-4cf3-b183-0c8261b0818f.png">
+
+* Click [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) for generating a new `ssh` key
+* CLick [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) for adding a `ssh` key to github.
+
+* The `ssh` key is stored in my `ieng6` account in `.ssh` 
+
+<img width="660" height = "454" alt="CleanShot 2022-05-08 at 16 30 38@2x" src="https://user-images.githubusercontent.com/66764591/167320811-d58d9bd8-ef97-4c0d-8e5a-808caa9e3959.png">
+
+
+* I then created a new txt file clled `hi.txt` in `SkillDemonstration1`.
+* Follow these commands to commit: `git add`, `git commit -m "a new txt file"`.
+* I then ran into error since github was asking me to use personal token instead.
+
+<img width="660" height="588" alt="CleanShot 2022-05-08 at 16 47 34@2x" src="https://user-images.githubusercontent.com/66764591/167320974-188f2405-ff40-488d-9f87-04262572f958.png">
+
+* I created a new personal token and used that instead of my password.
+* Then, use command `git push origin main` to push.
+
+<img width="660" height="588" alt="CleanShot 2022-05-08 at 16 47 42@2x" src="https://user-images.githubusercontent.com/66764591/167321000-e01d9ef2-237a-40f9-b934-b477410e4568.png">
 
 
 ### **Copy Whole Directories with `scp -r`**
