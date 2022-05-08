@@ -15,7 +15,7 @@
 * First, find the `.ssh` folder. The command for finding it is `Command - shift - g`
 * Open the `.ssh` folder with VS Code.
 
-<img alt="CleanShot 2022-05-08 at 15 08 57@2x" src="https://github.com/kaung-min-khant/cse15l-lab-reports/issues/3#issuecomment-1120496062" width=“660” height =“252”>
+<img width="660" height="252" alt="CleanShot 2022-05-08 at 15 08 57@2x" src="https://user-images.githubusercontent.com/66764591/167318352-472640cf-9abd-4c9f-b699-973883bda62e.png">
 
 * Type the following code in "config" file.
 
