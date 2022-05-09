@@ -29,14 +29,6 @@ Host ieng6
 
 <img width="660" height="628" alt="CleanShot 2022-05-08 at 15 13 18@2x" src="https://user-images.githubusercontent.com/66764591/167318420-e99c9077-29f0-4427-9dac-3637658035b1.png">
 
-* Now, testing it, I copied `markdown-parser` to `ieng6` by using command `scp -r ./markdown-parser ieng6:~/markdown-parser`
-
-<img width="660" height="845" alt="CleanShot 2022-05-08 at 15 51 11@2x" src="https://user-images.githubusercontent.com/66764591/167319292-2f2bc547-dfa4-4edd-b3fc-128062f761ea.png">
-
-* To test if the file transferred, I logged in to ieng6 by using command `ssh ieng6` and `cd markdown-parser` and `ls`
-
-<img width="660" height="454" alt="CleanShot 2022-05-08 at 15 53 25@2x" src="https://user-images.githubusercontent.com/66764591/167319334-85380313-3712-4244-8868-915a19c6f98f.png">
-
 ### **Setup Github Access from ieng6**
 
 * I created an `ssh` key by using `ssh-keygen -t ed25519 -C "1kaungminkhant1@gmail.com"`
@@ -71,3 +63,21 @@ Host ieng6
 
 
 ### **Copy Whole Directories with `scp -r`**
+
+* Use command `scp -r ./markdown-parser ieng6:~/markdown-parser` to copy the whole directory.
+
+<img width="660" height="845" alt="CleanShot 2022-05-08 at 15 51 11@2x" src="https://user-images.githubusercontent.com/66764591/167319292-2f2bc547-dfa4-4edd-b3fc-128062f761ea.png">
+
+* To test if the directory transferred successfully, I logged in to ieng6 by using command `ssh ieng6` and `cd markdown-parser` and `ls`
+
+<img width="660" height="454" alt="CleanShot 2022-05-08 at 15 53 25@2x" src="https://user-images.githubusercontent.com/66764591/167319334-85380313-3712-4244-8868-915a19c6f98f.png">
+
+
+* Now, we can run the test directly in `ieng6`
+
+<img width="660" height="498" alt="CleanShot 2022-05-08 at 17 04 22@2x" src="https://user-images.githubusercontent.com/66764591/167321389-c5b52cb8-e9f9-4e5f-88c1-263112eb095b.png">
+
+* You can also copy the whole directory and run the tests by combining the commands in one line. `scp -r *.java *.md lib/ ieng6:markdown-parse; ssh ieng6"cd markdown-parser; javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java; java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest"`
+
+<img width="660" height="289" alt="CleanShot 2022-05-08 at 15 08 57@2x" src="https://user-images.githubusercontent.com/66764591/167322746-f19a59ae-3fe0-41cf-93f8-9ed1b1c61129.png">
+
