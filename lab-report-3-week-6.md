@@ -29,6 +29,11 @@ Host ieng6
 
 <img width="660" height="628" alt="CleanShot 2022-05-08 at 15 13 18@2x" src="https://user-images.githubusercontent.com/66764591/167318420-e99c9077-29f0-4427-9dac-3637658035b1.png">
 
+* I've created a new txt file using alias and sing command `scp Hello.txt ieng6:~`
+* As can be seen from using `ls` commmand, there's a new txt file. 
+
+<img width="660" height="454" alt="CleanShot 2022-05-08 at 17 50 30@2x" src="https://user-images.githubusercontent.com/66764591/167323376-eddab866-8707-4784-a6af-4b9230d96871.png">
+
 ### **Setup Github Access from ieng6**
 
 * I created an `ssh` key by using `ssh-keygen -t ed25519 -C "1kaungminkhant1@gmail.com"`
@@ -42,8 +47,8 @@ Host ieng6
 
 <img width="660" height="590" alt="CleanShot 2022-05-08 at 16 26 30@2x" src="https://user-images.githubusercontent.com/66764591/167320134-62769224-a802-4cf3-b183-0c8261b0818f.png">
 
-* Click [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) for generating a new `ssh` key
-* CLick [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) for adding a `ssh` key to github.
+* Click [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) for detailed process of generating a new `ssh` key
+* CLick [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) for detailed process of adding a `ssh` key to github.
 
 * The `ssh` key is stored in my `ieng6` account in `.ssh` 
 
