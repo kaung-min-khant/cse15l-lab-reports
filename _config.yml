@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 
-show_downloads: true
+navbar-links:
+  Home: "https://kaung-min-khant.github.io/cse15l-lab-reports/"
+  
+  
