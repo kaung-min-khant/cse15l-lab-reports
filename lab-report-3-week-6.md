@@ -55,16 +55,12 @@ Host ieng6
 <img width="660" height = "454" alt="CleanShot 2022-05-08 at 16 30 38@2x" src="https://user-images.githubusercontent.com/66764591/167320811-d58d9bd8-ef97-4c0d-8e5a-808caa9e3959.png">
 
 
-* I then created a new txt file clled `hi.txt` in `SkillDemonstration1`.
-* Follow these commands to commit: `git add`, `git commit -m "a new txt file"`.
-* I then ran into error since github was asking me to use personal token instead.
+* After making a change to MArkdownParse.java, 
+* Follow these commands to commit: `git add`, `git commit -m "adding a line"`.
+* Enter `git push origin main`
 
-<img width="660" height="588" alt="CleanShot 2022-05-08 at 16 47 34@2x" src="https://user-images.githubusercontent.com/66764591/167320974-188f2405-ff40-488d-9f87-04262572f958.png">
+<img width="660" height = "464" alt="CleanShot 2022-05-16 at 11 45 55@2x" src="https://user-images.githubusercontent.com/66764591/168661284-53e7d2f3-24ec-421c-afdc-24f799019383.png">
 
-* I created a new personal token and used that instead of my password.
-* Then, use command `git push origin main` to push.
-
-<img width="660" height="588" alt="CleanShot 2022-05-08 at 16 47 42@2x" src="https://user-images.githubusercontent.com/66764591/167321000-e01d9ef2-237a-40f9-b934-b477410e4568.png">
 
 * [Here](https://github.com/kaung-min-khant/skillDemonstration1/commit/a921d32f63f263c04bc956124580d9b14be55dad) is the commit on github website.
 
