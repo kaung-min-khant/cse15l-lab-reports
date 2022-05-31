@@ -6,8 +6,11 @@
 ### **Contents**
 
 1. [Snippet 1](#snippet-1)
-2. [Code Change 2](#code-change-2)
-3. [Code Change 3](#code-change-3)
+2. [Snippet 2](#snippet-2)
+3. [Snippet 3](#snippet-3)
+
+[My `markdown-parser` repository](https://github.com/kaung-min-khant/markdown-parser)
+[Repository My Group Reviewed](https://github.com/Luke-Sheltraw/markdown-parser/)
 
 ### Snippet 1
 
@@ -21,3 +24,42 @@
 [`code]`](ucsd.edu)
 
 ```
+
+### Snippet 2
+
+``
+[a [nested link](a.com)](b.com)
+
+[a nested parenthesized url](a.com(()))
+
+[some escaped \[ brackets \]](example.com)
+
+``
+
+### Snippet 3
+
+``
+[this title text is really long and takes up more than 
+one line
+
+and has some line breaks](
+    https://www.twitter.com
+)
+
+[this title text is really long and takes up more than 
+one line](
+https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule
+)
+
+
+[this link doesn't have a closing parenthesis](github.com
+
+And there's still some more text after that.
+
+[this link doesn't have a closing parenthesis for a while](https://cse.ucsd.edu/
+
+
+)
+
+And then there's more text
+``
