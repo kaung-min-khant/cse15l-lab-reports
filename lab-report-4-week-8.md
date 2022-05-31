@@ -68,13 +68,13 @@ Output for my repository
 
 <img width="660" height="442" alt="CleanShot 2022-05-30 at 19 11 54@2x" src="https://user-images.githubusercontent.com/66764591/171095199-803139cf-0cc9-41f0-9683-1bf636568afd.png">
 
-There is no short line fix since `getLinks` method is making generalizations about positions of parenthesis. 
+There is no short line fix since `getLinks` method is making generalizations about positions of parenthesis. We also need to change a lot of local variables and conditional statements.
 
 Reviewed Repository
 
 <img width="660" height="442" alt="CleanShot 2022-05-30 at 19 11 54@2x" src="https://user-images.githubusercontent.com/66764591/171097233-703c7a53-af1b-462f-8df4-8a911827f198.png">
 
-Since the output is the same as our group's output, there is no short line fix since `getLinks` method is making generalizations about positions of parenthesis. 
+Since the output is the same as our group's output, there is no short line fix since `getLinks` method is making generalizations about positions of parenthesis. We also need to change a lot of local variables and conditional statements.
 
 ### Snippet 3
 
@@ -103,7 +103,7 @@ And there's still some more text after that.
 
 And then there's more text
 ```
-Expected output: `[[https://ucsd-cse15l-w22.github.io/](https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]`
+Expected output: `[(https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]`
 
 Output for my repository
 
