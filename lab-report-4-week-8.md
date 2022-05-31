@@ -36,6 +36,26 @@
 
 ```
 
+Expected output: ``[`google.com, google.com, ucsd.edu]``
+
+Junit Test
+
+```
+@Test
+    public void snippetTest1() throws IOException {
+        List<String> expected = List.of("%60google.com", "google.com", "ucsd.edu");
+        List<String> actual = MarkdownParse.getLinks("snippetTest1.md");
+        assertEquals(expected, actual);
+    }
+    
+```
+
+Output for my repository
+
+
+<img width="660" height="442" alt="CleanShot 2022-05-30 at 19 11 54@2x" src="https://user-images.githubusercontent.com/66764591/171094550-3752194d-9324-4ef5-8b81-2c737085dcf2.png">
+
+
 ### Snippet 3
 
 ```
