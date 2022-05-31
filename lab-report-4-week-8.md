@@ -9,7 +9,7 @@
 2. [Snippet 2](#snippet-2)
 3. [Snippet 3](#snippet-3)
 
-[My `markdown-parser` repository](https://github.com/kaung-min-khant/markdown-parser)
+[My `markdown-parser` repository](https://github.com/kaung-min-khant/markdown-parser) and 
 [Repository My Group Reviewed](https://github.com/Luke-Sheltraw/markdown-parser/)
 
 ### Snippet 1
