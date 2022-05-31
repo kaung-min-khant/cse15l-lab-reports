@@ -27,18 +27,18 @@
 
 ### Snippet 2
 
-``
+```
 [a [nested link](a.com)](b.com)
 
 [a nested parenthesized url](a.com(()))
 
 [some escaped \[ brackets \]](example.com)
 
-``
+```
 
 ### Snippet 3
 
-``
+```
 [this title text is really long and takes up more than 
 one line
 
@@ -62,4 +62,4 @@ And there's still some more text after that.
 )
 
 And then there's more text
-``
+```
