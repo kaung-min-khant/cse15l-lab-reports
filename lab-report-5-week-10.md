@@ -14,21 +14,21 @@ Then, run `make test` and `time bash script.sh`. The added line `echo "$file:"` 
 The differences are found using the command `vimdiff`.
 
 ### [Test File 519](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/519.md)
-## Expected output
+#### Expected output
 
 ```
 test-files/519.md:
 []
 ```
 
-## My output
+#### My output
 
 ```
 test-files/519.md:
 []
 ```
 
-## cse15lsp22-markdown-parse output
+#### cse15lsp22-markdown-parse output
 
 ```
 [uri1]
@@ -43,21 +43,21 @@ This will only search openParen after matching closing bracket is found.
 
 ### [Test File 149](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/149.md)
 
-## Expected output
+#### Expected output
 
 ```
 test-files/149.md:
 []
 ```
 
-## My output
+#### My output
 
 ```
 test-files/149.md:
 [okay.]
 ```
 
-## cse15lsp22-markdown-parse output
+#### cse15lsp22-markdown-parse output
 
 ```
 test-files/149.md:
